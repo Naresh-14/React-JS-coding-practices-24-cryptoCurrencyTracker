@@ -1,6 +1,6 @@
 In this project, let's build a **Cryptocurrency Tracker** by applying the concepts we have learned till now.
 
-Published Successfully!. Check at https://NACrypto.ccbp.tech
+Published Successfully!. Check at https://nareshji6mbrjscpuaf4d.drops.nxtwave.tech/
 
 ### Refer to the image below:
 
