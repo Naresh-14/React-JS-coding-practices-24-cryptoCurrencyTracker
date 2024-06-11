@@ -1,0 +1,36 @@
+.sub-table {
+  display: flex;
+  flex-direction: row;
+}
+
+.table-currency {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #fff;
+  font-weight: 500;
+}
+@media screen and (min-width: 768px) {
+  .table-currency {
+    font-size: 28px;
+  }
+}
+
+.currency-usd {
+  margin-right: 30px;
+}
+.table-currency-card {
+  display: flex;
+  flex-direction: row;
+}
+.currency-logo {
+  width: 40px;
+  height: 40px;
+  margin-top: 15px;
+  margin-right: 5px;
+}
+.list-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
